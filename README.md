@@ -1,7 +1,8 @@
 # Proof Pack — Application / Operations Support
 
 ## Purpose
-This Proof Pack demonstrates hands-on, job-ready capability in application and operations support roles, replacing generic “years of experience” claims with concrete, reviewable artifacts.
+This Proof Pack demonstrates hands-on, job-ready capability for Application Support and IT Support roles by showing how real incidents are diagnosed, resolved, and prevented in production environments.
+
 
 All documents are based on real operational systems and responsibilities.
 
@@ -46,3 +47,8 @@ These artifacts reflect day-to-day responsibilities found in:
 - Systems Coordination roles
 
 They are intended to supplement a resume during application review or interviews.
+
+## How to Review (Suggested)
+Hiring managers can start with **01_Incident_Report.md** to see end-to-end issue handling, then review the Runbook and SOP for repeatability and escalation discipline.
+
+
